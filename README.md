@@ -76,10 +76,11 @@ I am available for collaboration, consulting and freelance work.
 
 ### *Coding*
 <details>
-<summary></summary>
+<summary>Good old C</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Learn C the Hard Way - ex26 - Project Logfind*
-- [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
+- Aiming to show a clean commit history, as I am progressing this exercise
+- [repository](https://github.com/Wildapfel-v2/project-logfind-zed-a-shawn)
 </details>
 
 <br>
