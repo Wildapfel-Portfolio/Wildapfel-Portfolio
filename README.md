@@ -76,7 +76,7 @@ I am available for collaboration, consulting and freelance work.
 
 ### *Coding*
 <details>
-<summary>Good old C</summary>
+<summary>Good Old C</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Learn C the Hard Way - ex26 - Project Logfind*
 - Aiming to show a clean commit history, as I am progressing this exercise
