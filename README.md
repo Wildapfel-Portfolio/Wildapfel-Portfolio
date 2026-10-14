@@ -79,9 +79,6 @@ I am available for collaboration, consulting and freelance work.
 <summary>Learn C the Hard Way - ex26 - Project Logfind</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
-- Showcase of full reproducible and scalable pangenome build pipeline
-    - *Pangenome Graph* • *Workflow Automation*
-    - *minigraph* • *Bandage* • *Snakemake* • *Docker* • *Python* • *Bash*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
 </details>
 
