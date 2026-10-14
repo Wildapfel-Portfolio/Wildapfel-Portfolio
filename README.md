@@ -76,9 +76,9 @@ I am available for collaboration, consulting and freelance work.
 
 ### *Coding*
 <details>
-<summary>Learn C the Hard Way - ex26 - Project Logfind</summary>
+<summary></summary>
 
-#### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
+#### &nbsp;&nbsp;&nbsp; *Learn C the Hard Way - ex26 - Project Logfind*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
 </details>
 
