@@ -76,7 +76,7 @@ I am available for collaboration, consulting and freelance work.
 
 ### *Coding*
 <details>
-<summary>Omics</summary>
+<summary>Learn C the Hard Way - ex26 - Project Logfind</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
 - Showcase of full reproducible and scalable pangenome build pipeline
@@ -84,31 +84,5 @@ I am available for collaboration, consulting and freelance work.
     - *minigraph* • *Bandage* • *Snakemake* • *Docker* • *Python* • *Bash*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
 </details>
-  
-<details>
-<summary>Modelling</summary>
-
-#### &nbsp;&nbsp;&nbsp; *Root-To-Shoot-Ratio*
-- Statistical Modelling of Root-To-Shoot-Ratio in barley populations
-    - *Marginal Distribution Fitting (Gamma)* • *Ratio Distribution Fitting (Beta)* • *Statistical Testing* 
-    - *Python* • *Jupyter Notebooks* • *Pandas* • *Matplotlib* • *Scipy* • *TeX* 
-- [demo-repository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
-</details>
-
-<details>
-<summary>Population Genetics</summary>
-
-#### &nbsp;&nbsp;&nbsp; *GWAS: Identifying QTL's for marker assisted selection in barley population*
-- Association mapping of quantitative phenotype traits in *Hordeum vulgare* using GAPIT.
-    - GWAS • FarmCPU • GLM • Manhattan/QQ plots • Linkage Disequilibrium • Significant Markers • Trait Prediction
-    - Python • Scikit-learn • R • GAPIT • Pandas • Jupyter • Conda/Mamba • Docker • Bash • TeX
-- [demo-repository](https://github.com/Wildapfel/gwas-quantitative-traits-hordeum-vulgare)
-</details>
-
-
-
-
-
-
 
 <br>
