@@ -74,7 +74,7 @@ I am available for collaboration, consulting and freelance work.
 - [demo-repository](https://github.com/Wildapfel/gwas-quantitative-traits-hordeum-vulgare)
 </details>
 
-##### *Hands-On*
+### *Coding*
 <details>
 <summary>Omics</summary>
 
