@@ -16,7 +16,7 @@ I am available for collaboration, consulting and freelance work.
 
 #### &nbsp;&nbsp;&nbsp; *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*
 - [10.14293/PR2199.004545.v1](https://doi.org/10.14293/PR2199.004545.v1) 
-- [repository](https://github.com/Wildapfel/compression-transcriptomes) (under construction)
+- [repository](https://github.com/Wildapfel/compression-transcriptomes)
 
 </details>
 
@@ -51,7 +51,7 @@ I am available for collaboration, consulting and freelance work.
 - Showcase of full reproducible and scalable pangenome build pipeline
     - *Pangenome Graph* • *Workflow Automation*
     - *minigraph* • *Bandage* • *Snakemake* • *Docker* • *Python* • *Bash*
-- [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
+- [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) 
 </details>
   
 <details>
