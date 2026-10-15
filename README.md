@@ -8,7 +8,7 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Python • C • Java • R • Bash • LaTeX**
 
-You can also visit my personal account: [link](https://github.com/Wildapfel-v2)
+You can also visit my personal GitHub-Acc.: [link](https://github.com/Wildapfel-v2).
 
 I am available for collaboration, consulting and freelance work.
 
