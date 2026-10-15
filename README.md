@@ -84,5 +84,3 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <br>
-
-You can also visit my personal account: [link](https://github.com/Wildapfel-v2)
