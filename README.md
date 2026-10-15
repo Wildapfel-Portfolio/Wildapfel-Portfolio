@@ -10,8 +10,6 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 You can also visit my personal GitHub-Acc.: [link](https://github.com/Wildapfel-v2).
 
-I am available for collaboration, consulting and freelance work.
-
 ### *Official*
 <details>
 <summary>Publications</summary>
